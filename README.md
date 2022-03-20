@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jcdallasta
 - 👀 I’m interested in Web Development, App Development and Data Science
-- 🌱 I’m currently learning Python, HTML, CSS and R
+- 🌱 I’m currently learning Python, HTML, CSS, Figma and R
 - 💞️ I’m looking to collaborate on Data Science projects and openly searching for job as a Python Developer
 - 📫 How to reach me: juancruz.da@gmail.com
 
